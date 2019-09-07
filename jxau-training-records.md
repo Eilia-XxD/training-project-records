@@ -27,7 +27,6 @@
 - [Day 5](#day-5)
     - [一、目标](#一目标)
     - [二、实现](#二实现)
-        - [3. 暂未实现](#3-暂未实现)
     - [三、参考：](#三参考)
 
 # Day1
@@ -151,8 +150,6 @@ https://cli.im/ - 草料二维码
 ## 二、实现
 
 [实现介绍](./pages/day5-part2-camera-smile-face.md)
-
-### 3. 暂未实现
 
 ## 三、参考：
 * https://blog.csdn.net/weixin_36882413/article/details/80674565
